@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="862e6628-4a4b-46ce-bf81-092432861d3d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cPgpsaRpSsoC6nTI60BlbDNRUj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/jax-ws-service-implementation/composite/eu/glowacki/jaxws/implementation/composite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jms (2)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="eu.glowacki.jaxws.implementation.composite" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Weronika Wawrzyniak\Downloads\jax-ws (6)\jax-ws-client\sorter" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="eu.glowacki.jaxws.api.composite" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SorterImplTest">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.jaxws.client.sorter.Main" />
+      <module name="jax-ws-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.jaxws.client.sorter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.jaxws.client.composite.Main" />
+      <module name="jax-ws-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.jaxws.client.composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SorterImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.jaxws.implementation.sorter.SorterImpl" />
+      <module name="jax-ws-service-implementation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SorterImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jax-ws-service-implementation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.jaxws.implementation.sorter.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eu.glowacki.jaxws.implementation.sorter.test" />
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.jaxws.implementation.sorter.test.SorterImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SorterImplTest.sort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jax-ws-service-implementation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.jaxws.implementation.sorter.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eu.glowacki.jaxws.implementation.sorter.test" />
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.jaxws.implementation.sorter.test.SorterImplTest" />
+      <option name="METHOD_NAME" value="sort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SorterImplTest" />
+        <item itemvalue="Application.SorterImpl" />
+        <item itemvalue="JUnit.SorterImplTest.sort" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="862e6628-4a4b-46ce-bf81-092432861d3d" name="Default Changelist" comment="" />
+      <created>1590435828996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590435828996</updated>
+      <workItem from="1590435831488" duration="22830000" />
+      <workItem from="1590524915540" duration="3340000" />
+      <workItem from="1590563618964" duration="3253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1590488369331">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1590488369331" />
+    <state x="446" y="24" key="#com.intellij.ide.util.MemberChooser" timestamp="1590504924352">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="24" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1024.728@0.0.1280.680" timestamp="1590504924352" />
+    <state x="2277" y="26" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1024.728@1920.0.1024.728" timestamp="1590493906199" />
+    <state x="446" y="24" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1590492118536" />
+    <state x="272" y="29" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1590525475748">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="272" y="29" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680/1920.0.1024.728@0.0.1280.680" timestamp="1590525475748" />
+    <state x="272" y="29" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1590435917470" />
+    <state x="200" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1590504260558">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="200" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680/1920.0.1024.728@0.0.1280.680" timestamp="1590504260558" />
+    <state x="200" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1590491509832" />
+    <state x="371" y="200" width="539" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590502857336">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="200" width="539" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1024.728@0.0.1280.680" timestamp="1590502857336" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590495263977">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1024.728@0.0.1280.680" timestamp="1590495263977" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1590484342718" />
+    <state x="371" y="87" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1590483720184">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.680@0.0.1280.680" timestamp="1590483720184" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1590578306459">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1024.728@0.0.1280.680" timestamp="1590502575405" />
+    <state x="2257" y="102" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1024.728@1920.0.1024.728" timestamp="1590574429528" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590578306459" />
+    <state width="1237" height="487" key="GridCell.Tab.0.bottom" timestamp="1590578308037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="65" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1024.728@0.0.1280.680" timestamp="1590576274665" />
+    <state width="981" height="111" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1024.728@1920.0.1024.728" timestamp="1590574407920" />
+    <state width="1237" height="487" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590578308037" />
+    <state width="1237" height="487" key="GridCell.Tab.0.center" timestamp="1590578308037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="65" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1024.728@0.0.1280.680" timestamp="1590576274665" />
+    <state width="981" height="111" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1024.728@1920.0.1024.728" timestamp="1590574407920" />
+    <state width="1237" height="487" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590578308037" />
+    <state width="1237" height="487" key="GridCell.Tab.0.left" timestamp="1590578308037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="65" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1024.728@0.0.1280.680" timestamp="1590576274665" />
+    <state width="981" height="111" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1024.728@1920.0.1024.728" timestamp="1590574407920" />
+    <state width="1237" height="487" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590578308037" />
+    <state width="1237" height="487" key="GridCell.Tab.0.right" timestamp="1590578308037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="65" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1024.728@0.0.1280.680" timestamp="1590576274665" />
+    <state width="981" height="111" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1024.728@1920.0.1024.728" timestamp="1590574407920" />
+    <state width="1237" height="487" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590578308037" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1590507503364">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1024.728@0.0.1280.680" timestamp="1590507503364" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590484391171" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1590507503364">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1024.728@0.0.1280.680" timestamp="1590507503364" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1590484391171" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1590507503364">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1024.728@0.0.1280.680" timestamp="1590507503364" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1590484391171" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1590507503364">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1024.728@0.0.1280.680" timestamp="1590507503364" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1590484391171" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1590528141995">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680/1920.0.1024.728@0.0.1280.680" timestamp="1590525348891" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1590528141995" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1590525496936">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1024.728@0.0.1280.680" timestamp="1590525496936" />
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1590484630657" />
+    <state x="451" y="118" key="chooseDestDirectoryDialog" timestamp="1590482498011">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="451" y="118" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1590482498011" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1590563670183">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1024.728@1920.0.1024.728" timestamp="1590563670183" />
+    <state x="378" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590482695838">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="378" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1590482695838" />
+    <state x="1920" y="0" key="new project wizard" timestamp="1590563694200">
+      <screen x="1920" y="0" width="1024" height="728" />
+    </state>
+    <state x="1920" y="0" key="new project wizard/0.0.1280.680/1920.0.1024.728@1920.0.1024.728" timestamp="1590563694200" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jax-ws-client/composite/eu/glowacki/jaxws/client/composite/Main.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
